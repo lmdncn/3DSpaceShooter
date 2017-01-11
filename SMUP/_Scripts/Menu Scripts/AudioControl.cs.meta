@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: feacc8e73f6cdb64eb7bd8d1f184d03e
+timeCreated: 1459356324
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - musicSel: {instanceID: 0}
+  - effectSel: {instanceID: 0}
+  - winMusicSel: {instanceID: 0}
+  - bkgM: {fileID: 105722, guid: 175c945d98e11874e892e3554d0205f2, type: 2}
+  - bkgM1: {fileID: 154820, guid: 85edf7786f59f134ab0778cb1cc96e2e, type: 2}
+  - clickSound: {fileID: 102282, guid: 5948f0eb818aa3f429d42fe2fa164e98, type: 2}
+  - winS: {fileID: 160812, guid: b3a6c495a4047144a96a734ba0894b95, type: 2}
+  - winS2: {fileID: 141984, guid: d0f11f9c51d1ba44884cd932b116a7c5, type: 2}
+  - shootS: {instanceID: 0}
+  - shootS2: {instanceID: 0}
+  - destroyS: {fileID: 191554, guid: d0411c3bb8303e642824f27ad742d165, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
